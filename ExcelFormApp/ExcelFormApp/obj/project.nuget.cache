@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv5V7amQEeOimrwavuNJhuNJWgcmNv/BSh7Dd6hHOfwV36cCJVozbf8zGOOIepCM8zk53A3f/4J3ijDX4ouTxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berkt\\Desktop\\Projeler\\FormApp\\FormExcelApp\\ExcelFormApp\\ExcelFormApp\\ExcelFormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berkt\\.nuget\\packages\\datatables.net\\1.13.8\\datatables.net.1.13.8.nupkg.sha512",
+    "C:\\Users\\berkt\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\berkt\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\berkt\\.nuget\\packages\\jquery\\1.7.0\\jquery.1.7.0.nupkg.sha512",
+    "C:\\Users\\berkt\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

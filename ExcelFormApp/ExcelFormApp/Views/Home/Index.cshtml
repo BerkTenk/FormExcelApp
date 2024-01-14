@@ -1,0 +1,31 @@
+﻿@model FormViewModel
+<h1>Form</h1><hr>
+<form asp-action="GenerateExcel" method="post">
+    <input type="hidden" asp-for="Id">
+    <label>İsim</label><br>
+    <input type="text" asp-for="Isim" /><br>
+    <label>Soyisim</label><br>
+    <input type="text" asp-for="Soyisim" /><br>
+    <label>Adres</label><br>
+    <input type="text" asp-for="Adres" /><br>
+    <label>Mail</label><br>
+    <input type="text" asp-for="Mail" />
+    <hr>
+
+    <button type="submit" onclick="createExcel()">Excel Oluştur</button>
+</form>
+<hr>
+
+<table id="dataTable" border="1">
+    <thead>
+        <tr>
+            <th>İsim</th>
+            <th>Soyisim</th>
+            <th>Adres</th>
+            <th>Mail</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table>
